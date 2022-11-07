@@ -1,0 +1,15 @@
+ {
+    "person": {
+        "firstName":"Meelaud",
+        "lastName":"Totonchi"
+    },
+    "work": {
+        "job":"Student",
+        "program":"D3",
+        "URL": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/"
+    },
+    "education": {
+        "programs": ["Applied software certificate", "Coputer Systems Diploma", "Comuter systems certofocate"],
+        "department":"School of computing and information Technology"
+    }
+ }
